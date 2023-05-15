@@ -1,5 +1,5 @@
 <template>
-  <div>abcd</div>
+  <div>1234abcd5678efgh</div>
 </template>
 
 <script>
