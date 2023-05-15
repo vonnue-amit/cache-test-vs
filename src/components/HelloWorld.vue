@@ -1,5 +1,7 @@
 <template>
-  <div>1234abcd5678efgh</div>
+  <div>
+    <iframe src="https://profound-crisp-3924bc.netlify.app" title="vs w/o hash or change" width="100%" height="500px" />
+  </div>
 </template>
 
 <script>
