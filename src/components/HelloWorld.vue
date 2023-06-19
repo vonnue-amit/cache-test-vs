@@ -1,6 +1,6 @@
 <template>
   <div>
-    <iframe src="https://incandescent-madeleine-1b7a09.netlify.app/" title="vs w/o hash or change" width="100%" height="500px" />
+    <iframe src="https://bejewelled-kangaroo-80ef76.netlify.app/" title="vs w/o hash or change" width="100%" height="500px" />
   </div>
 </template>
 
